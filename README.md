@@ -1,2 +1,2 @@
 # sd-church-site
-A site developed for a client
+A bootstrap site developed for a client
