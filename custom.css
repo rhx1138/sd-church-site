@@ -1,3 +1,12 @@
 .logo {
     height: 25px;
 }
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        justify-content: flex-end;
+        padding-right: 50px;
+    }
+}
