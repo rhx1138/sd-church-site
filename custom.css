@@ -2,6 +2,22 @@
     height: 25px;
 }
 
+p {
+    margin-bottom: 40px;
+}
+
+.section-container {
+    margin-top: 20px;
+}
+
+
+.fa-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
 @media (min-width: 768px) {
     .navbar-expand-md .navbar-collapse {
         display: flex !important;
