@@ -17,7 +17,20 @@ p {
     justify-content: center;
 }
 
+.background-color-container, .white-text-container {
+    background-color: darkblue;
+    color: white;
+}
 
+.text-center {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: rgb(236, 236, 236);
+    padding-top: 30px;
+}
 
 @media (min-width: 768px) {
     .navbar-expand-md .navbar-collapse {
