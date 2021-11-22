@@ -7,6 +7,10 @@ p {
     margin-bottom: 40px;
 }
 
+.container {
+    margin-top: 50px;
+}
+
 .section-container {
     margin-top: 20px;
 }
@@ -25,6 +29,10 @@ p {
 .text-center {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+.row {
+    justify-content: center;
 }
 
 footer {
