@@ -44,6 +44,10 @@ footer {
     padding-top: 25px;
 }
 
+img {
+    margin: 12px;
+}
+
 @media (min-width: 768px) {
     .navbar-expand-md .navbar-collapse {
         display: flex !important;
