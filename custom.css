@@ -3,6 +3,10 @@
     margin-left: 35px;
 }
 
+.navbar-nav .nav-link {
+    padding-left: 20px;
+}
+
 p {
     margin-bottom: 40px;
 }
@@ -12,7 +16,7 @@ p {
 }
 
 .section-container {
-    margin-top: 20px;
+    margin-top: 70px;
 }
 
 
