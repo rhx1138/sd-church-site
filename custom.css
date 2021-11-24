@@ -1,6 +1,13 @@
+html *
+{
+   font-family: Helvetica, sans-serif;
+}
+
 html {
     margin: 0 auto;
 }
+
+
 .logo {
     height: 35px;
     margin-left: 35px;
@@ -8,6 +15,10 @@ html {
 
 .navbar-nav .nav-link {
     padding-left: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
 }
 
 p {
@@ -19,6 +30,10 @@ p {
 }
 
 .section-container {
+    margin-top: 8px;
+}
+
+.ourpastor {
     margin-top: 88px;
 }
 
